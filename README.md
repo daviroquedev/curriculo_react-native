@@ -1,7 +1,7 @@
-# curriculo_react-native
+# Curriculo_react-native
 Breve currículo para treino de React-Native.
 
-# objetivo
+# Objetivo
 O principal objetivo desse projeto foi aprender mais como funciona as propriedades (props) e os componentes. Deixando o código mais especifico em cada sessão e transformando em componente.
 
 ![Captura de tela 2022-06-23 203725](https://user-images.githubusercontent.com/101668192/175431998-24043b3c-33ec-40c9-8cd6-f28b319dcfda.jpg)
